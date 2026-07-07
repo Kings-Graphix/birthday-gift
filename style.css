@@ -6,7 +6,7 @@ body{
   font-weight: 400;
   font-style: normal;
 
-  background: linear-gradient(#a2d2ff, pink) ;
+  background: radial-gradient(#a2d2ff, pink) ;
   color: white;
   display: flex;
   flex-direction: column;
